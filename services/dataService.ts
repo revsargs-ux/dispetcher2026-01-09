@@ -16,6 +16,7 @@ const STORAGE_KEYS = {
 
 const INITIAL_DISPATCHERS: Dispatcher[] = [
     { id: 'd1', name: 'Алексей (Старший)', phone: '+79001112233', status: 'active', geo_allowed: true, total_margin_generated: 150000 },
+    { id: 'd3', name: 'Алексей2 (Старший)', phone: '+79001112236', status: 'active', geo_allowed: true, total_margin_generated: 150000 },
     { id: 'd2', name: 'Мария', phone: '+79004445566', status: 'active', geo_allowed: true, total_margin_generated: 85000 }
 ];
 
