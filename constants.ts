@@ -18,4 +18,4 @@ export const MIN_HOURLY_RATE_CLIENT = 450; // Минимальная цена, �
  * не содержит необходимых колонок (datetime, claimed_by, is_read и др.) или таблиц (customers).
  * Приложение будет использовать LocalStorage как надежную базу данных.
  */
-export const USE_MOCK_DATA = false;
+export const USE_MOCK_DATA = true;
